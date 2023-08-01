@@ -1,0 +1,178 @@
+import Column1 from "../../assets/images/column-1.jpg";
+import Column2 from "../../assets/images/column-2.jpg";
+import Column3 from "../../assets/images/column-3.jpg";
+import Column4 from "../../assets/images/column-4.jpg";
+import Column5 from "../../assets/images/column-5.jpg";
+import Column6 from "../../assets/images/column-6.jpg";
+import Column7 from "../../assets/images/column-7.jpg";
+import Column8 from "../../assets/images/column-8.jpg";
+export const columns = [
+    {
+      time: "23:25",
+      date: "2021.05.17",
+      title: "魚を食べて頭もカラダも元気に！知っておきたい魚を食べるメリ…",
+      image: Column1,
+      tags: ["魚料理", "和食", "DHA"],
+    },
+    {
+      time: "23:25",
+      date: "2021.05.17",
+      title: "魚を食べて頭もカラダも元気に！知っておきたい魚を食べるメリ…",
+      image: Column2,
+      tags: ["魚料理", "和食", "DHA"],
+    },
+    {
+      time: "23:25",
+      date: "2021.05.17",
+      title: "魚を食べて頭もカラダも元気に！知っておきたい魚を食べるメリ…",
+      image: Column3,
+      tags: ["魚料理", "和食", "DHA"],
+    },
+    {
+      time: "23:25",
+      date: "2021.05.17",
+      title: "魚を食べて頭もカラダも元気に！知っておきたい魚を食べるメリ…",
+      image: Column4,
+      tags: ["魚料理", "和食", "DHA"],
+    },
+    {
+      time: "23:25",
+      date: "2021.05.17",
+      title: "魚を食べて頭もカラダも元気に！知っておきたい魚を食べるメリ…",
+      image: Column5,
+      tags: ["魚料理", "和食", "DHA"],
+    },
+    {
+      time: "23:25",
+      date: "2021.05.17",
+      title: "魚を食べて頭もカラダも元気に！知っておきたい魚を食べるメリ…",
+      image: Column6,
+      tags: ["魚料理", "和食", "DHA"],
+    },
+    {
+      time: "23:25",
+      date: "2021.05.17",
+      title: "魚を食べて頭もカラダも元気に！知っておきたい魚を食べるメリ…",
+      image: Column7,
+      tags: ["魚料理", "和食", "DHA"],
+    },
+    {
+      time: "23:25",
+      date: "2021.05.17",
+      title: "魚を食べて頭もカラダも元気に！知っておきたい魚を食べるメリ…",
+      image: Column8,
+      tags: ["魚料理", "和食", "DHA"],
+    },
+    {
+      time: "23:25",
+      date: "2021.05.17",
+      title: "魚を食べて頭もカラダも元気に！知っておきたい魚を食べるメリ…",
+      image: Column1,
+      tags: ["魚料理", "和食", "DHA"],
+    },
+    {
+      time: "23:25",
+      date: "2021.05.17",
+      title: "魚を食べて頭もカラダも元気に！知っておきたい魚を食べるメリ…",
+      image: Column2,
+      tags: ["魚料理", "和食", "DHA"],
+    },
+    {
+      time: "23:25",
+      date: "2021.05.17",
+      title: "魚を食べて頭もカラダも元気に！知っておきたい魚を食べるメリ…",
+      image: Column3,
+      tags: ["魚料理", "和食", "DHA"],
+    },
+    {
+      time: "23:25",
+      date: "2021.05.17",
+      title: "魚を食べて頭もカラダも元気に！知っておきたい魚を食べるメリ…",
+      image: Column4,
+      tags: ["魚料理", "和食", "DHA"],
+    },
+    {
+      time: "23:25",
+      date: "2021.05.17",
+      title: "魚を食べて頭もカラダも元気に！知っておきたい魚を食べるメリ…",
+      image: Column5,
+      tags: ["魚料理", "和食", "DHA"],
+    },
+    {
+      time: "23:25",
+      date: "2021.05.17",
+      title: "魚を食べて頭もカラダも元気に！知っておきたい魚を食べるメリ…",
+      image: Column6,
+      tags: ["魚料理", "和食", "DHA"],
+    },
+    {
+      time: "23:25",
+      date: "2021.05.17",
+      title: "魚を食べて頭もカラダも元気に！知っておきたい魚を食べるメリ…",
+      image: Column7,
+      tags: ["魚料理", "和食", "DHA"],
+    },
+    {
+      time: "23:25",
+      date: "2021.05.17",
+      title: "魚を食べて頭もカラダも元気に！知っておきたい魚を食べるメリ…",
+      image: Column8,
+      tags: ["魚料理", "和食", "DHA"],
+    },
+    {
+      time: "23:25",
+      date: "2021.05.17",
+      title: "魚を食べて頭もカラダも元気に！知っておきたい魚を食べるメリ…",
+      image: Column1,
+      tags: ["魚料理", "和食", "DHA"],
+    },
+    {
+      time: "23:25",
+      date: "2021.05.17",
+      title: "魚を食べて頭もカラダも元気に！知っておきたい魚を食べるメリ…",
+      image: Column2,
+      tags: ["魚料理", "和食", "DHA"],
+    },
+    {
+      time: "23:25",
+      date: "2021.05.17",
+      title: "魚を食べて頭もカラダも元気に！知っておきたい魚を食べるメリ…",
+      image: Column3,
+      tags: ["魚料理", "和食", "DHA"],
+    },
+    {
+      time: "23:25",
+      date: "2021.05.17",
+      title: "魚を食べて頭もカラダも元気に！知っておきたい魚を食べるメリ…",
+      image: Column4,
+      tags: ["魚料理", "和食", "DHA"],
+    },
+    {
+      time: "23:25",
+      date: "2021.05.17",
+      title: "魚を食べて頭もカラダも元気に！知っておきたい魚を食べるメリ…",
+      image: Column5,
+      tags: ["魚料理", "和食", "DHA"],
+    },
+    {
+      time: "23:25",
+      date: "2021.05.17",
+      title: "魚を食べて頭もカラダも元気に！知っておきたい魚を食べるメリ…",
+      image: Column6,
+      tags: ["魚料理", "和食", "DHA"],
+    },
+    {
+      time: "23:25",
+      date: "2021.05.17",
+      title: "魚を食べて頭もカラダも元気に！知っておきたい魚を食べるメリ…",
+      image: Column7,
+      tags: ["魚料理", "和食", "DHA"],
+    },
+    {
+      time: "23:25",
+      date: "2021.05.17",
+      title: "魚を食べて頭もカラダも元気に！知っておきたい魚を食べるメリ…",
+      image: Column8,
+      tags: ["魚料理", "和食", "DHA"],
+    },
+  ];

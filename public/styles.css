@@ -1,0 +1,86 @@
+@font-face {
+    font-family: 'OpenSans';
+    font-style: normal;
+    font-weight: 400;
+    src: url(assets/fonts/OpenSans-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'OpenSans';
+    font-style: italic;
+    font-weight: 400;
+    src: url(assets/fonts/OpenSans-Italic.ttf);
+}
+
+@font-face {
+    font-family: 'OpenSans';
+    font-style: normal;
+    font-weight: 700;
+    src: url(assets/fonts/OpenSans-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'OpenSans';
+    font-style: italic;
+    font-weight: 700;
+    src: url(assets/fonts/OpenSans-BoldItalic.ttf);
+}
+
+@font-face {
+    font-family: 'OpenSans';
+    font-style: normal;
+    font-weight: 800;
+    src: url(assets/fonts/OpenSans-ExtraBold.ttf);
+}
+
+@font-face {
+    font-family: 'OpenSans';
+    font-style: italic;
+    font-weight: 800;
+    src: url(assets/fonts/OpenSans-ExtraBoldItalic.ttf);
+}
+
+@font-face {
+    font-family: 'OpenSans';
+    font-style: normal;
+    font-weight: 600;
+    src: url(assets/fonts/OpenSans-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: 'OpenSans';
+    font-style: italic;
+    font-weight: 600;
+    src: url(assets/fonts/OpenSans-SemiBoldItalic.ttf);
+}
+
+@font-face {
+    font-family: 'OpenSans';
+    font-style: normal;
+    font-weight: 100;
+    src: url(assets/fonts/OpenSans-Light.ttf);
+}
+
+@font-face {
+    font-family: 'OpenSans';
+    font-style: italic;
+    font-weight: 100;
+    src: url(assets/fonts/OpenSans-LightItalic.ttf);
+}
+
+html,
+body {
+    font-family: OpenSans, sans-serif !important;
+    font-size: 14px;
+    width: 100%;
+    height: 100%;
+    color: #4b5462;
+}
+
+#root {
+    height: 100%;
+}
+
+.atlaskit-portal-container > .atlaskit-portal {
+  z-index: 99999 !important;
+}
